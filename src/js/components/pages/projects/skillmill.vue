@@ -35,7 +35,7 @@
             flex-direction: row
 
     video
-        max-width: 100%
+        width: 100%
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.12), 0 2px 4px 0 rgba(0,0,0,0.08)
         border-radius: 5px
         @media (min-width: 992px)
