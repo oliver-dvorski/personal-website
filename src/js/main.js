@@ -1,6 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
+import components from './globalComponents'
+
 Vue.use(VueRouter)
 
 import App from './components/app'

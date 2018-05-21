@@ -1,6 +1,9 @@
 <template>
     <div>
-        <page-header></page-header>
+        <fancy-header>
+            <h1>Oliver Dvorski</h1>
+            <p slot="subtitle">Full stack web developer</p>
+        </fancy-header>
         <first-section></first-section>
         <second-section></second-section>
         <page-footer></page-footer>
@@ -8,12 +11,11 @@
 </template>
 
 <script>
-    import pageHeader from './pageHeader'
     import firstSection from './firstSection'
     import secondSection from './secondSection'
     import pageFooter from './footer'
 
     export default {
-        components: { pageHeader, firstSection, secondSection, pageFooter }
+        components: { firstSection, secondSection, pageFooter }
     }
 </script>
