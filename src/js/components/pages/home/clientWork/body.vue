@@ -10,7 +10,7 @@
                 <p>
                     The app itseslf was a SPA written with Vue. I was assigned as the first front end developer that joined the project.
                 </p>
-                <button>Read more</button>
+                <router-link to="/projects/skillmill" class="button">Read more</router-link>
             </div>
             <div class="img">
                 <img src="img/scrot1.svg" alt="Skillmill screenshot">
