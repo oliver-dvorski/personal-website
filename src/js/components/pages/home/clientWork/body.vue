@@ -26,7 +26,7 @@
                 <p>
                     Justy24 was built on Laravel with Vue components sprinkled in as needed. Bulma was our CSS framework of choice.
                 </p>
-                <button>Read more</button>
+                <router-link to="/projects/justy24" class="button">Read more</router-link>
             </div>
 
             <div class="img">

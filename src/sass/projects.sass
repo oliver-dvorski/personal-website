@@ -1,0 +1,37 @@
+.project-page
+    .illustration
+        max-width: 450px
+        width: 100%
+        min-width: 0
+        margin: 2rem 0
+        flex: 1
+        @media (min-width: $md)
+            &.left
+                margin: 0 2rem 0 0
+            &.right
+                margin: 0 0 0 2rem
+                order: 1
+    .subsection
+        display: flex
+        align-items: flex-start
+        flex-direction: column
+        @media (min-width: $md)
+            flex-direction: row
+            padding-top: 3rem
+            padding-bottom: 3rem
+    .content
+        max-width: 550px
+        flex: 1
+        order: 2
+        @media (min-width: $md)
+            order: 1
+
+.cta
+    background: $primary-colour
+    color: white
+    padding: 3rem 0
+    button, .button
+        background: white
+        color: $primary-colour
+        &:hover
+            background: #e8e8e8
