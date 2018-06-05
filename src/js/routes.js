@@ -6,10 +6,6 @@ export default [
         component: pages.home
     },
     {
-        path: '/projects/skillmill',
-        component: pages.skillmill
-    },
-    {
         path: '/projects/justy24',
         component: pages.justy24
     },
