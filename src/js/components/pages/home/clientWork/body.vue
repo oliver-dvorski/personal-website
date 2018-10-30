@@ -13,7 +13,7 @@
                 <router-link to="/projects/skillmill" class="button">Read more</router-link>
             </div>
             <div class="img">
-                <img src="img/scrot1.svg" alt="Skillmill screenshot">
+                <img src="/img/scrot1.svg" alt="Skillmill screenshot">
             </div>
         </div>
         <div class="subsection second">
@@ -30,7 +30,7 @@
             </div>
 
             <div class="img">
-                <img src="img/scrot2.svg" alt="Justy24 screenshot">
+                <img src="/img/scrot2.svg" alt="Justy24 screenshot">
             </div>
         </div>
     </div>

@@ -10,7 +10,7 @@
                 <router-link to="/projects/zippy" class="button">Read more</router-link>
             </div>
             <div class="img">
-                <img src="img/scrot3.svg" alt="Skillmill screenshot">
+                <img src="/img/scrot3.svg" alt="Skillmill screenshot">
             </div>
         </div>
         <div class="subsection second">
@@ -24,7 +24,7 @@
             </div>
 
             <div class="img">
-                <img src="img/scrot4.svg" alt="Justy24 screenshot">
+                <img src="/img/scrot4.svg" alt="Justy24 screenshot">
             </div>
         </div>
     </div>

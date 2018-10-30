@@ -9,6 +9,7 @@ import App from './components/app'
 
 import routes from './routes'
 const router = new VueRouter({
+    mode: 'history',
     routes,
     scrollBehavior (to, from, savedPosition) {
         if (savedPosition) {

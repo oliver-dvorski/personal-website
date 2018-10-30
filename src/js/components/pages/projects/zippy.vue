@@ -5,7 +5,7 @@
         </fancy-header>
         <div class="container mx-auto project-page">
             <div class="subsection">
-                <img src="img/illustrations/sharing.svg" alt="An illustration" class="illustration left">
+                <img src="/img/illustrations/sharing.svg" alt="An illustration" class="illustration left">
                 <div class="content">
                     <h3>Disposable link sharing</h3>
                     <p>Zippy is a file sharing platform designed to transfer files from one computer to another without the transfer of any sensitive information such as usernames and passwords.</p>
@@ -18,7 +18,7 @@
                     <p>Zippy uses a dropzone to accept files through your file explorer or drag and drop. Using drag and drop, you can upload folders as well and their structure will be kept in the resulting zip file. The code is a bit messy since this was one of my first laravel projects but it just works so I don’t know when it’ll get an update.</p>
                     <p>The zip files get deleted after a month to preserve storage space since I designed the app only as a conduit, not a storage service. Which is also why there’s a 50MB file limit. I might increase that one though since I used Zippy for a couple of 45-49MB files myself.</p>
                 </div>
-                <img src="img/illustrations/security.svg" alt="An illustration" class="illustration right">
+                <img src="/img/illustrations/security.svg" alt="An illustration" class="illustration right">
             </div>
         </div>
         <div class="cta">

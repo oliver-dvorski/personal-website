@@ -5,7 +5,7 @@
         </fancy-header>
         <div class="container mx-auto project-page">
             <div class="subsection">
-                <img src="img/illustrations/restaurant.svg" alt="An illustration" class="illustration left">
+                <img src="/img/illustrations/restaurant.svg" alt="An illustration" class="illustration left">
                 <div class="content">
                     <h3>Quick restaurant service</h3>
                     <p>At Justy24, my task was to build an application that would eliminate the waiting period in restaurants. Partner restaurants would get a profile that contained their menu, working hours, pictures, etc.</p>
@@ -17,7 +17,7 @@
                     <h3>Environment</h3>
                     <p>I did all the things technical on this one. Design and development. The CEO and CMO were the only other people I interacted with. We got to the point where we had restaurants willing to partner up with us and the app was in its MVP stage where the profile pages and editor were ready to go, the menu system was in place and built to be very flexible, ordering and payment were functional but the CEO pulled the plug after doing more market research.</p>
                 </div>
-                <img src="img/illustrations/office.svg" alt="An illustration" class="illustration right">
+                <img src="/img/illustrations/office.svg" alt="An illustration" class="illustration right">
             </div>
         </div>
         <div class="cta">
