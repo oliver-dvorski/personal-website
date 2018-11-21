@@ -21,4 +21,8 @@ export default [
         path: '/projects/qr',
         component: pages.qr
     },
+    {
+        path: '/cv',
+        component: pages.cv
+    }
 ]
