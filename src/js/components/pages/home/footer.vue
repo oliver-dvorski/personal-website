@@ -1,8 +1,5 @@
 <template>
     <footer>
-        <div class="footer-shape">
-            <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 374 16"><path d="M0 16.0896S28.8817 0 187.0067 0s187.0066 16.0896 187.0066 16.0896z" fill="#64adf6" fill-opacity=".9804"/></svg>
-        </div>
         <div class="container mx-auto">
             <h1>Contact links!</h1>
 
